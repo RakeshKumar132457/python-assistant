@@ -1,0 +1,6 @@
+SpeechRecognition
+pyttsx3
+pygame
+wikipedia
+wolframalpha
+mysql-connector-python
